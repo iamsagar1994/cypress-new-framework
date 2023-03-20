@@ -1,0 +1,36 @@
+[33mcommit 2b4145d2170805542f3904722472a7ad7dd43b45[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 8c7d8c8 feb1f84
+Author: iamsagar1994 <sagar.signin@gmail.com>
+Date:   Tue Mar 21 00:09:57 2023 +0530
+
+    merging the new branch with master branch
+
+[33mcommit 8c7d8c8df88a75db1ba33349d65b190704b6f52b[m
+Author: iamsagar1994 <sagar.signin@gmail.com>
+Date:   Tue Mar 21 00:03:32 2023 +0530
+
+    emergency fix
+
+[33mcommit feb1f84919831f28e18ffef415a01ed74df23fde[m
+Author: iamsagar1994 <sagar.signin@gmail.com>
+Date:   Mon Mar 20 23:59:01 2023 +0530
+
+    commit to the new branch
+
+[33mcommit a69f5eae71ef30f1c1f48a65c7f446449cb3dca4[m
+Author: iamsagar1994 <sagar.signin@gmail.com>
+Date:   Mon Mar 20 23:51:15 2023 +0530
+
+    modified the file 3
+
+[33mcommit f57758235c3fd3148c521ef07d439e786d6dbe40[m
+Author: iamsagar1994 <sagar.signin@gmail.com>
+Date:   Mon Mar 20 23:38:31 2023 +0530
+
+    modified the first file
+
+[33mcommit 1805bcd2048759808eebf79f712b3cc2a6f72c97[m
+Author: iamsagar1994 <sagar.signin@gmail.com>
+Date:   Mon Mar 20 23:36:24 2023 +0530
+
+    first commit
